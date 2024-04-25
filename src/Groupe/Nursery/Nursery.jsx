@@ -230,7 +230,7 @@ const Nursery = () => {
                                 <div className="flex items-center mx-auto justify-center bg-white text-red-400 gap-5 shadow-xl w-80 rounded-lg center  mb-10 mt-10">
                                         <h2 className="text-xl">Dcoment</h2>
                                         <h2 className="text-xl">Dcoment</h2>
-                                        <p><a className="btn border-t-neutral-900 " href="./Nursery.jsx">Download</a></p>
+                                        <p><a className="btn border-t-neutral-900 " href="/dist/File/408020[1].pdf">Download</a></p>
                                 </div>
                         </div>
 
